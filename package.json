@@ -1,0 +1,23 @@
+{
+  "name": "jscodeshift-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mateja Petrovic <mateja176@gmail.com> (https://github.com/mateja176)",
+  "license": "MIT",
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "jscodeshift": "^0.10.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@types/jscodeshift": "^0.7.1",
+    "@types/react": "^16.9.44",
+    "@types/react-dom": "^16.9.8"
+  }
+}
